@@ -1,0 +1,31 @@
+*{  margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+    font-family: "Poppins", sans-serif;
+    font-weight: 500;
+    font-style: normal;
+}  
+body{
+
+    background-color: darkcyan;
+}
+.header{
+    padding: 15px 0;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+section{
+    border-bottom: 1px solid #dddddd79 ;
+    padding: 20px 0px;
+    margin: 50px;
+}
+.my_profile{
+    display: block;
+    margin: 10px auto;
+    padding: 10px auto;
+    border-radius: 100px;
+}
+.first_P{
+    text-align: justify;
+}
