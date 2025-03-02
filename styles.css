@@ -7,7 +7,7 @@
 }  
 body{
 
-    background-color: darkcyan;
+    background-color: #1abc9c;
 }
 .header{
     padding: 15px 0;
@@ -28,4 +28,15 @@ section{
 }
 .first_P{
     text-align: justify;
+}
+.skills{
+    font-size: 22px; 
+    padding-bottom: 7px;
+    margin-bottom: 2px;
+}
+.projects{
+    font-size: 22px ;
+    padding-bottom: 7px;
+    margin-bottom: 2px;
+    
 }
