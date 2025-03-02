@@ -38,5 +38,19 @@ section{
     font-size: 22px ;
     padding-bottom: 7px;
     margin-bottom: 2px;
+}
+.galerry{
+    font-size: 22px ;
+    padding-bottom: 7px;
+    margin-bottom: 2px;
+}
+.projects_one{
+    display: flex;
     
+}
+.projects_two{
+    display: flex;
+    justify-content: space-between;
+    margin: 10px 0;
+    padding-top: 2px;
 }
