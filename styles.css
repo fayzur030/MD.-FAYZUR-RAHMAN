@@ -35,3 +35,12 @@ section{
 .h_two{
     padding-bottom: 10px;
 }
+.contact{
+    padding: 5px;
+}
+footer{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
